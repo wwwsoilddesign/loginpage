@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+
+
+}
+
+body{
+    background: url(coffee.png);
+   background-size: cover;
+   background-repeat:no-repeat ;
+    
+    
+}
+
+
+.login-form{
+    width: 350px;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%,50%);
+    position: absolute;
+    color: #fff;
+
+}
+
+.login-form h2{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+}
+
+.login-form input{
+    font-size: 15px;
+    width: 100%;
+    padding: 15px 10px;
+    border: 0;
+    transform: none;ś
+    outline: none;
+    border-radius: 5px;
+    transform-origin: 0cqi;
+
+} .login-form button{
+    font-size: 20px;
+    font-weight:bold ;
+    margin: 20px 0;
+    padding: 20px 15;
+    width: 60%;
+    border-radius: 6%;
+    border: 0;
+
+} P{
+    font-family: serif;
+}
+
+.h4 p{
+    font-family:bold;
+}
